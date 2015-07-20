@@ -4,7 +4,7 @@
 	id="skin.ftv"
 	version="1.2.2"
 	name="fTV"
-	provider-name="Hitcher">
+	provider-name="Geert">
 	<requires>
 		<import addon="xbmc.gui" version="5.9.0"/>
 		<import addon="script.toolbox" version="1.0.0"/>
