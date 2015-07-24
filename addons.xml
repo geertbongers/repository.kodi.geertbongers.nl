@@ -82,7 +82,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.plexbmc" name="PleXBMC" version="4.0.0~beta4" provider-name="Hippojay (plexbmc@h-jay.com)">
+<addon id="plugin.video.plexbmc" name="PleXBMC" version="4.0.0~beta4" provider-name="Geert">
 
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
