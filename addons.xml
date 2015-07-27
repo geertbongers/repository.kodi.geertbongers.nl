@@ -2,7 +2,7 @@
 <addons>
 <addon
 	id="skin.ftv"
-	version="1.2.3"
+	version="1.2.4"
 	name="fTV"
 	provider-name="Geert">
 	<requires>
